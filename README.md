@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PromptForge — LLM Prompt Injection Simulation Lab
 
 PromptForge is an advanced client-side GenAI security sandbox and cyber range designed to simulate, visualize, and teach mitigation strategies for LLM prompt injections.
@@ -111,3 +112,7 @@ PromptForge implements 12 distinct prompt injection scenarios:
 *   **Project Designer**: Gurram Jagan Bhasker
 *   **Use Cases**: Educational cyber range for security training and LLM guardrail research.
 *   **Disclaimer**: *This is a client-side simulation lab. It does not perform actual network queries or connect to external commercial LLM endpoints.*
+=======
+# PromptForage-LLM-Attack-Simulation
+Interactive LLM Prompt Injection Security Lab
+>>>>>>> 2bd8435a9479eeaceda490442ec6b437fe9826fe
